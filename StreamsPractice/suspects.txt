@@ -1,0 +1,6 @@
+Name,Hair Color,Glasses,Facial Hair,Shirt,Pants,Shoes,Birth Year
+Corkey,RED,true,Beard,Tshirt,Corduroy,Loafers,1983
+Penny,BLACK,true,Stubble,Hoodie,Slacks,Crocks,1987
+Bartholomew,RED,false,None,Tshirt,Jeans,Sneakers,1984
+Rocky,BLUE,false,None,Cardigan,Jeans,Sneakers,1998
+Bob,GREY,true,Beard,GarbageBag,None,Bananas,1145
